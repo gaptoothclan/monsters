@@ -1,0 +1,9 @@
+Malixo west=Malixo
+Ege south=Dolamisme
+Dolamisme north=Ege south=Asmismu east=Malixo west=Dixu
+Asmismu north=Dolamisme
+Dixu east=Dolamisme
+Amasna north=Dixu east=Asmismu
+Dusmu north=Malixo west=Asmismu
+Anodago south=Dixu east=Ege
+Malexo south=Malixo west=Ege
